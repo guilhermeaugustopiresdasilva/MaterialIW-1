@@ -1,6 +1,9 @@
 
 body{
-    background-color: #151111b3;
+    background-image: url(../img/img\ de\ fundo.jpg);
+    background-repeat: round;
+
+    
 }
 
 header{
@@ -35,8 +38,28 @@ nav{
     margin: auto;
 }
 
+
 footer{
     background-color: rgb(251, 255, 255);
     width: 20%;
+
+}
+
+ul {
+
+    padding-top: 1%;
+    padding-bottom: 1%;
+    line-height: 1.5;
+    font-size: 1.1em;
+}
+
+.container {
+
+    background-color: rgb(56, 55, 55);
+    width: 80%;
+    margin: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    line-height: 1.5;
 
 }
