@@ -15,6 +15,7 @@ header{
     text-align: center;
     color: beige#fff;
     font-size: 1.6em; 
+    width: 100%;
     
 
 }
@@ -42,6 +43,8 @@ nav{
 footer{
     background-color: rgb(251, 255, 255);
     width: 20%;
+    
+
 
 }
 
