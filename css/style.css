@@ -25,12 +25,12 @@ nav{
     text-align: center;
     color: #a19898;
     font-size: 1.5em;
-    padding-bottom: 50%;
+    padding-bottom: 100%;
 }
 
 .banner{
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
 }
 
 .container{
@@ -50,8 +50,8 @@ footer{
 
 ul {
 
-    padding-top: 50%;
-    padding-bottom: 50%;
+    padding-top: 100%;
+    padding-bottom: 1%;
     line-height: 1.5;
     font-size: 1.1em;
 }
@@ -61,8 +61,8 @@ ul {
     background-color: rgb(56, 55, 55);
     width: 80%;
     margin: auto;
-    padding-top: 100%;
-    padding-bottom: 100%;
+    padding-top: %;
+    padding-bottom: 1%;
     line-height: 1.5;
 
 }
