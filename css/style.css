@@ -51,7 +51,7 @@ footer{
 ul {
 
     padding-top: 100%;
-    padding-bottom: 1%;
+    padding-bottom: 100%;
     line-height: 1.5;
     font-size: 1.1em;
 }
@@ -61,8 +61,8 @@ ul {
     background-color: rgb(56, 55, 55);
     width: 80%;
     margin: auto;
-    padding-top: %;
-    padding-bottom: 1%;
+    padding-top: 100%;
+    padding-bottom: 100%;
     line-height: 1.5;
 
 }
